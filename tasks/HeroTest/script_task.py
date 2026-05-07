@@ -154,7 +154,7 @@ class ScriptTask(GameUi, GeneralBattle, HeroTestAssets, SwitchSoul):
             self.I_HERO2_SKILL6,  # 默认技能，选第一个祝福
             self.I_HERO2_SKILL7,  # 速度祝福
         ]
-        # TODO: PVP
+        # pvp技能列表
         pvp_skill = [
             self.I_HERO2_SKILL6,  # 默认技能，选第一个祝福
             self.I_HERO2_SKILL7,  # 速度祝福
