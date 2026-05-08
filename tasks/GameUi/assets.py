@@ -70,7 +70,7 @@ class GameUiAssets:
 	# description 
 	I_CHECK_AWAKE = RuleImage(roi_front=(376,565,73,82), roi_back=(376,565,73,82), threshold=0.8, method="Template matching", file="./tasks/GameUi/page/page_check_awake.png")
 	# description 
-	I_CHECK_SOUL_ZONES = RuleImage(roi_front=(49,186,298,237), roi_back=(49,186,298,237), threshold=0.8, method="Template matching", file="./tasks/GameUi/page/page_check_soul_zones.png")
+	I_CHECK_SOUL_ZONES = RuleImage(roi_front=(152,20,68,36), roi_back=(152,20,68,36), threshold=0.8, method="Template matching", file="./tasks/GameUi/page/page_check_soul_zones.png")
 	# description 
 	I_CHECK_REALM_RAID = RuleImage(roi_front=(129,632,52,48), roi_back=(66,526,233,188), threshold=0.7, method="Template matching", file="./tasks/GameUi/page/page_check_realm_raid.png")
 	# description 
