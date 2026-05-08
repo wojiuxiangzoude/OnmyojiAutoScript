@@ -20,7 +20,7 @@
   {
     "itemName": "main_goto_friends",
     "imageName": "page_main_goto_friends.png",
-    "roiFront": "870,609,68,76",
+    "roiFront": "845,590,55,55",
     "roiBack": "845,590,120,100",
     "method": "Template matching",
     "threshold": 0.7,
@@ -190,7 +190,7 @@
   },
   {
     "itemName": "dlc_close",
-    "imageName": "page_dlc_close.png",
+    "imageName": "store_dlc_close.png",
     "roiFront": "916,147,24,25",
     "roiBack": "916,147,24,25",
     "method": "Template matching",

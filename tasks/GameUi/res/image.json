@@ -38,8 +38,8 @@
   {
     "itemName": "home_tsk",
     "imageName": "res_home_tsk.png",
-    "roiFront": "764,614,65,64",
-    "roiBack": "759,611,74,68",
+    "roiFront": "764,608,66,56",
+    "roiBack": "764,608,66,56",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "花合战"
