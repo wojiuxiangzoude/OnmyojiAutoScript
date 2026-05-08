@@ -146,7 +146,7 @@
   {
     "itemName": "back_yollow",
     "imageName": "page_back_yollow.png",
-    "roiFront": "24,16,48,55",
+    "roiFront": "17,14,48,55",
     "roiBack": "0,0,100,100",
     "method": "Template matching",
     "threshold": 0.8,
@@ -155,7 +155,7 @@
   {
     "itemName": "demon_encounter_goto_town",
     "imageName": "page_demon_encounter_goto_town.png",
-    "roiFront": "28,20,56,52",
+    "roiFront": "18,15,56,52",
     "roiBack": "3,4,100,100",
     "method": "Template matching",
     "threshold": 0.8,
