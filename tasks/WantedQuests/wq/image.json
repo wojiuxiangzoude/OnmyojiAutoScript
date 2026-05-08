@@ -146,8 +146,8 @@
   {
     "itemName": "wq_list_top_bottom_check",
     "imageName": "wq_wq_list_top_bottom_check.png",
-    "roiFront": "43,144,23,22",
-    "roiBack": "39,128,30,377",
+    "roiFront": "79,203,16,14",
+    "roiBack": "70,117,33,388",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "探索界面,左侧任务列表右上角右下角标志"
