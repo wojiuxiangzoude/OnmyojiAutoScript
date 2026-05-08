@@ -20,8 +20,6 @@ class WantedQuestsAssets:
 
 
 	# Ocr Rule Assets
-	# 探索界面检测是否有"封"字判断是否还有悬赏任务
-	O_WQ_LIST_TOP_BOTTOM_CHECK = RuleOcr(roi=(10,193,90,33), area=(10,193,90,33), mode="Single", method="Default", keyword="封", name="wq_list_top_bottom_check")
 	# 挑战券的数量 
 	O_WQ_NUMBER = RuleOcr(roi=(569,13,50,32), area=(569,13,50,32), mode="Digit", method="Default", keyword="", name="wq_number")
 	# 悬赏封印 
@@ -172,7 +170,8 @@ class WantedQuestsAssets:
 	I_WQ_TRACE_ONE_CHECK_OPENED = RuleImage(roi_front=(510,175,210,60), roi_back=(510,175,210,60), threshold=0.8, method="Template matching", file="./tasks/WantedQuests/wq/wq_trace_one_check_opened.png")
 	# 庭院悬赏任务界面 单个任务点开后的界面 是否为现世任务标志 
 	I_WQ_TRACE_ONE_REALWORLD = RuleImage(roi_front=(850,470,180,180), roi_back=(850,470,180,180), threshold=0.8, method="Template matching", file="./tasks/WantedQuests/wq/wq_trace_one_realworld.png")
-
+	# 探索界面,左侧任务列表右上角右下角标志 
+	I_WQ_LIST_TOP_BOTTOM_CHECK = RuleImage(roi_front=(120,125,25,425), roi_back=(120,125,25,425), threshold=0.8, method="Template matching", file="./tasks/WantedQuests/wq/wq_list_top_bottom_check.png")
 
 
 	# Image Rule Assets

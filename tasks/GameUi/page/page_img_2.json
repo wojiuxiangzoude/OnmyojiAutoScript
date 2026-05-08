@@ -155,8 +155,8 @@
   {
     "itemName": "demon_encounter_goto_town",
     "imageName": "page_demon_encounter_goto_town.png",
-    "roiFront": "22,19,41,37",
-    "roiBack": "22,19,41,37",
+    "roiFront": "28,20,56,52",
+    "roiBack": "3,4,100,100",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "description"
