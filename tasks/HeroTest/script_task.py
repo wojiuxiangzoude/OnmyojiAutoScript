@@ -151,14 +151,10 @@ class ScriptTask(GameUi, GeneralBattle, HeroTestAssets, SwitchSoul):
             self.I_HERO2_SKILL3,  # 弥天祝福
             self.I_HERO2_SKILL4,  # 叠辉祝福
             self.I_HERO2_SKILL5,  # 敛神祝福
-            self.I_HERO2_SKILL6,  # 默认技能，选第一个祝福
-            self.I_HERO2_SKILL7,  # 速度祝福
+            self.I_HERO2_SKILL6,  # 速度祝福
         ]
-        # pvp技能列表
-        pvp_skill = [
-            self.I_HERO2_SKILL6,  # 默认技能，选第一个祝福
-            self.I_HERO2_SKILL7,  # 速度祝福
-        ]
+        # TODO: PVP
+        pvp_skill = []
         target_skill_dict: dict[SkillMode, list] = {
             SkillMode.PVE: pve_skill,
             SkillMode.PVP: pvp_skill,
