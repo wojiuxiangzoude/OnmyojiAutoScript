@@ -29,8 +29,8 @@
   {
     "itemName": "check_exploration",
     "imageName": "page_check_exploration.png",
-    "roiFront": "1146,175,21,22",
-    "roiBack": "1146,175,21,22",
+    "roiFront": "1086,163,48,42",
+    "roiBack": "1087,170,46,30",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "description"
@@ -38,8 +38,8 @@
   {
     "itemName": "exploration_goto_awake_zone",
     "imageName": "page_exploration_goto_awake_zone.png",
-    "roiFront": "57,628,57,42",
-    "roiBack": "33,619,113,79",
+    "roiFront": "57,628,72,56",
+    "roiBack": "33,619,122,80",
     "method": "Template matching",
     "threshold": 0.65,
     "description": "探索前往觉醒"
@@ -47,8 +47,8 @@
   {
     "itemName": "exploration_goto_soul_zone",
     "imageName": "page_exploration_goto_soul_zone.png",
-    "roiFront": "163,642,44,36",
-    "roiBack": "134,623,93,70",
+    "roiFront": "158,631,62,54",
+    "roiBack": "134,621,108,72",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "探索前往御魂"
@@ -65,8 +65,8 @@
   {
     "itemName": "exploration_goto_goryou_realm",
     "imageName": "page_exploration_goto_goryou_realm.png",
-    "roiFront": "353,639,47,45",
-    "roiBack": "346,626,178,67",
+    "roiFront": "350,634,57,52",
+    "roiBack": "310,618,146,89",
     "method": "Template matching",
     "threshold": 0.7,
     "description": "探索前往御灵"
@@ -83,8 +83,8 @@
   {
     "itemName": "exploration_goto_secret_zones",
     "imageName": "page_exploration_goto_secret_zones.png",
-    "roiFront": "549,633,53,40",
-    "roiBack": "524,614,200,87",
+    "roiFront": "549,633,56,51",
+    "roiBack": "524,614,105,94",
     "method": "Template matching",
     "threshold": 0.7,
     "description": "探索前往秘闻"
@@ -92,8 +92,8 @@
   {
     "itemName": "exploration_goto_area_boss",
     "imageName": "page_exploration_goto_area_boss.png",
-    "roiFront": "640,638,51,45",
-    "roiBack": "640,638,180,45",
+    "roiFront": "636,649,63,45",
+    "roiBack": "607,628,125,75",
     "method": "Template matching",
     "threshold": 0.65,
     "description": "探索前往地域鬼王"
@@ -101,8 +101,8 @@
   {
     "itemName": "exploration_goto_heian_kitan",
     "imageName": "page_exploration_goto_heian_kitan.png",
-    "roiFront": "739,643,52,44",
-    "roiBack": "739,643,180,44",
+    "roiFront": "730,631,61,56",
+    "roiBack": "716,623,88,85",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "探索前往平安奇谭"
@@ -110,8 +110,8 @@
   {
     "itemName": "exploration_goto_six_gates",
     "imageName": "page_exploration_goto_six_gates.png",
-    "roiFront": "938,640,60,49",
-    "roiBack": "820,631,296,66",
+    "roiFront": "925,632,58,57",
+    "roiBack": "820,616,296,87",
     "method": "Template matching",
     "threshold": 0.65,
     "description": "探索前往六道之门"
@@ -119,8 +119,8 @@
   {
     "itemName": "exploration_goto_bondling_fairyland",
     "imageName": "page_exploration_goto_bondling_fairyland.png",
-    "roiFront": "1037,635,56,44",
-    "roiBack": "918,623,218,72",
+    "roiFront": "1013,629,64,54",
+    "roiBack": "918,606,218,101",
     "method": "Template matching",
     "threshold": 0.65,
     "description": "探索前往契灵之境"
