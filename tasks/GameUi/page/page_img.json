@@ -29,8 +29,8 @@
   {
     "itemName": "check_exploration",
     "imageName": "page_check_exploration.png",
-    "roiFront": "1086,163,48,42",
-    "roiBack": "1087,170,46,30",
+    "roiFront": "1141,113,41,33",
+    "roiBack": "1134,102,56,54",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "description"
@@ -74,7 +74,7 @@
   {
     "itemName": "exploration_goto_delegation",
     "imageName": "page_exploration_goto_delegation.png",
-    "roiFront": "453,643,52,49",
+    "roiFront": "447,636,58,56",
     "roiBack": "399,613,177,95",
     "method": "Template matching",
     "threshold": 0.65,
