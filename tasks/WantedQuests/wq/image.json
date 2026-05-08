@@ -38,8 +38,8 @@
   {
     "itemName": "wq_box",
     "imageName": "wq_wq_box.png",
-    "roiFront": "48,187,43,38",
-    "roiBack": "20,137,100,397",
+    "roiFront": "38,134,41,34",
+    "roiBack": "14,119,106,415",
     "method": "Template matching",
     "threshold": 0.7,
     "description": "奖励宝箱"
@@ -109,7 +109,7 @@
   },
   {
     "itemName": "wq_trace_one_enable",
-    "imageName": "wq_trace_one_enable.png",
+    "imageName": "wq_wq_trace_one_enable.png",
     "roiFront": "160,175,120,60",
     "roiBack": "160,175,120,60",
     "method": "Template matching",
@@ -118,7 +118,7 @@
   },
   {
     "itemName": "wq_trace_one_disable",
-    "imageName": "wq_trace_one_disable.png",
+    "imageName": "wq_wq_trace_one_disable.png",
     "roiFront": "160,175,120,60",
     "roiBack": "160,175,120,60",
     "method": "Template matching",
@@ -127,7 +127,7 @@
   },
   {
     "itemName": "wq_trace_one_check_opened",
-    "imageName": "wq_trace_one_check_opened.png",
+    "imageName": "wq_wq_trace_one_check_opened.png",
     "roiFront": "510,175,210,60",
     "roiBack": "510,175,210,60",
     "method": "Template matching",
@@ -136,7 +136,7 @@
   },
   {
     "itemName": "wq_trace_one_realworld",
-    "imageName": "wq_trace_one_realworld.png",
+    "imageName": "wq_wq_trace_one_realworld.png",
     "roiFront": "850,470,180,180",
     "roiBack": "850,470,180,180",
     "method": "Template matching",
@@ -145,9 +145,9 @@
   },
   {
     "itemName": "wq_list_top_bottom_check",
-    "imageName": "wq_list_top_bottom_check.png",
-    "roiFront": "120,125,25,425",
-    "roiBack": "120,125,25,425",
+    "imageName": "wq_wq_list_top_bottom_check.png",
+    "roiFront": "43,144,23,22",
+    "roiBack": "39,128,30,377",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "探索界面,左侧任务列表右上角右下角标志"

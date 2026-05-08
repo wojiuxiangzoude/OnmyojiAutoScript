@@ -29,8 +29,8 @@
   {
     "itemName": "ui_back_red",
     "imageName": "ui_ui_back_red.png",
-    "roiFront": "1041,111,34,38",
-    "roiBack": "877,15,383,254",
+    "roiFront": "23,13,37,38",
+    "roiBack": "1,1,82,65",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "description"
@@ -38,8 +38,8 @@
   {
     "itemName": "ui_back_yellow",
     "imageName": "ui_ui_back_yellow.png",
-    "roiFront": "26,17,47,46",
-    "roiBack": "0,0,100,100",
+    "roiFront": "17,13,47,46",
+    "roiBack": "0,0,78,76",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "description"
