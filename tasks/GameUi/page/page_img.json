@@ -29,8 +29,8 @@
   {
     "itemName": "check_exploration",
     "imageName": "page_check_exploration.png",
-    "roiFront": "1141,113,41,33",
-    "roiBack": "1134,102,56,54",
+    "roiFront": "59,522,51,71",
+    "roiBack": "1,510,211,97",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "description"
@@ -74,8 +74,8 @@
   {
     "itemName": "exploration_goto_delegation",
     "imageName": "page_exploration_goto_delegation.png",
-    "roiFront": "447,636,58,56",
-    "roiBack": "399,613,177,95",
+    "roiFront": "448,641,55,55",
+    "roiBack": "409,609,131,97",
     "method": "Template matching",
     "threshold": 0.65,
     "description": "探索前往式神委派"
