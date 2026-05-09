@@ -2,8 +2,8 @@
   {
     "itemName": "e_exploration_open",
     "imageName": "res_e_exploration_open.png",
-    "roiFront": "289,167,37,80",
-    "roiBack": "282,162,47,92",
+    "roiFront": "1077,248,37,80",
+    "roiBack": "1072,242,47,92",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "进入难度选择界面"
@@ -11,8 +11,8 @@
   {
     "itemName": "e_exploration_click",
     "imageName": "res_e_exploration_click.png",
-    "roiFront": "1084,600,96,42",
-    "roiBack": "1084,601,96,42",
+    "roiFront": "898,518,96,42",
+    "roiBack": "898,518,96,42",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "探索按钮"
@@ -137,7 +137,7 @@
   {
     "itemName": "battle_start",
     "imageName": "res_battle_start.png",
-    "roiFront": "555,688,39,27",
+    "roiFront": "555,688,39,27.5",
     "roiBack": "221,677,561,41",
     "method": "Template matching",
     "threshold": 0.8,
@@ -155,8 +155,8 @@
   {
     "itemName": "red_close",
     "imageName": "res_red_close.png",
-    "roiFront": "21,11,41,42",
-    "roiBack": "14,6,54,55",
+    "roiFront": "1027,129,41,42",
+    "roiBack": "1021,121,54,55",
     "method": "Template matching",
     "threshold": 0.6,
     "description": "description"
@@ -173,8 +173,8 @@
   {
     "itemName": "treasure_box_click",
     "imageName": "res_treasure_box_click.png",
-    "roiFront": "38,135,40,33",
-    "roiBack": "2,124,135,412",
+    "roiFront": "33,476,70,49",
+    "roiBack": "2,130,135,406",
     "method": "Template matching",
     "threshold": 0.7,
     "description": "宝箱"
@@ -200,8 +200,8 @@
   {
     "itemName": "exp_create_team",
     "imageName": "res_exp_create_team.png",
-    "roiFront": "888,595,107,52",
-    "roiBack": "882,590,118,62",
+    "roiFront": "590,514,122,52",
+    "roiBack": "543,490,192,100",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "组队按钮"
